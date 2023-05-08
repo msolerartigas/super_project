@@ -10,3 +10,4 @@ We need to plan stage 1 of this project. Stage 1 involves the following activiti
 1. Install the oven
 1. Install the fridge
 
+This is another line added to demonstrate pulling across branches
